@@ -2,7 +2,7 @@
 </h2>
 <br>
 
-### Descrição (Description)
+### Descrição
 
 <p>Projeto em Python para a automação do processo de machine learning e data science, a fim de gerar previsões de resultados através do uso de múltiplas inteligências artificiais.</p>
 
@@ -10,7 +10,7 @@
 <br>
 
 
-### Funcionalidades do projeto (Project Functionalities)
+### Funcionalidades do projeto
 
 * Importa banco de dados
 * Exibe a correlação dos dados em um gráfico, para análise pelo usuário
@@ -35,7 +35,7 @@
 <br>
 
 
-### Tecnologias utilizadas (Dependencies)
+### Tecnologias utilizadas
 
 * Pandas
 * Matplotlib
@@ -44,7 +44,7 @@
 <br>
 
 
-### Rodando o projeto (Running the project)
+### Rodando o projeto
 
 * Observe que o script não promove o tratamento dos dados. Isso está fora do escopo desse projeto e já foi explorado em outros projetos nesse portifólio.
 * O script faz uso de dois módulos de IA para as previsões (Regressão Linear e Árvore de decisão)
